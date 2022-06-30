@@ -2,7 +2,7 @@
 import { CommonFieldTypes, Manifest } from '@sitecore-jss/sitecore-jss-dev-tools';
 
 /**
- * This is the data template for an individual _item_ in the Styleguide's Content List field demo.
+ * This is the test data template for an individual _item_ in the Styleguide's Content List field demo.
  */
 export default function StyleguideContentListItemTemplate(manifest: Manifest) {
   manifest.addTemplate({
